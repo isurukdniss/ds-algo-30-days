@@ -22,3 +22,100 @@
 - https://medium.com/coders-mojo/day-20-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-heap-priority-648a8d87c7c3?sk=9329096a6d585ea25030f1ba33f9dad3
 - https://medium.com/coders-mojo/day-21-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-2-d-dynamic-53a4424b26?sk=c1d89aab4df1d4e71e06451bc079b110
 - https://medium.com/coders-mojo/day-22-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-intervals-a6cc14351d27?sk=727b050f49ee242d359352b02ac5d066
+
+1. Dynamic Programming
+
+    Partition Equal subset sum : https://leetcode.com/problems/partition- equal-subset-sum/
+    Climbing Stairs — https://leetcode.com/problems/climbing-stairs/
+    Coin Change — https://leetcode.com/problems/coin-change/
+    Longest Increasing Subsequence — https://leetcode.com/problems/longest-increasing-subsequence/
+    Longest Common Subsequence — https://leetcode.com/problems/longest-common-subsequence/
+    Word Break Problem — https://leetcode.com/problems/word-break/
+    Combination Sum — https://leetcode.com/problems/combination-sum-iv/
+    House Robber — https://leetcode.com/problems/house-robber/
+    House Robber II — https://leetcode.com/problems/house-robber-ii/
+    Unique Paths — https://leetcode.com/problems/unique-paths/
+    Jump Game — https://leetcode.com/problems/jump-game/
+    Decode Ways — https://leetcode.com/problems/decode-ways/
+
+2. Sliding Window
+
+    Average of any contiguous subarray of size k : https://leetcode.com/problems/maximum-average-subarray-i/
+    Maximum sum of any contiguous subarray of size k : https://leetcode.com/problems/maximum-subarray/
+    Smallest subarray with a given sum : https://leetcode.com/problems/minimum-size-subarray-sum/
+    Longest substring with k distinct characters : https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+    Fruits into baskets : https://leetcode.com/problems/fruit-into-baskets/
+    Longest substring without repeating characters : https://leetcode.com/problems/longest-substring-without-repeating-characters/
+    Longest substring after k replacements : https://leetcode.com/problems/longest-repeating-character-replacement/
+    Permutation in string: https://leetcode.com/problems/permutation-in-string/
+    String anagrams: https://leetcode.com/problems/find-all-anagrams-in-a-string/
+
+3. Array
+
+    Missing Ranges: https://leetcode.com/problems/missing-ranges/
+    Search in Rotated Sorted Array : https://leetcode.com/problems/search-in-rotated-sorted-array/
+    One Edit Distance : https://leetcode.com/problems/edit-distance/
+    3Sum : https://leetcode.com/problems/3sum/
+    Container With Most Water : https://leetcode.com/problems/container-with-most-water/
+    Longest Substring without repeating characters : https://leetcode.com/problems/longest-substring-without-repeating-characters/
+    Two Sum I and II : https://leetcode.com/problems/two-sum/
+    Implement strstr() : https://leetcode.com/problems/implement-strstr/
+    Best Time to Buy and Sell Stock : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+    Contains Duplicate : https://leetcode.com/problems/contains-duplicate/
+    Product of Array: https://leetcode.com/problems/product-of-array-except-self/
+    Maximum Subarray : https://leetcode.com/problems/maximum-subarray/
+    Maximum Product Subarray : https://leetcode.com/problems/maximum-product-subarray/
+    Reverse Words in String : https://leetcode.com/problems/reverse-words-in-a-string/
+    Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
+    Find Minimum in Rotated Sorted Array: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+
+4. String
+
+    Longest Repeating Character Replacement — https://leetcode.com/problems/longest-repeating-character-replacement/
+    Minimum Window Substring — https://leetcode.com/problems/minimum-window-substring/
+    Valid Anagram — https://leetcode.com/problems/valid-anagram/
+    Group Anagrams — https://leetcode.com/problems/group-anagrams/
+    Valid Parentheses — https://leetcode.com/problems/valid-parentheses/
+    Valid Palindrome — https://leetcode.com/problems/valid-palindrome/
+    Longest Palindromic Substring — https://leetcode.com/problems/longest-palindromic-substring/
+    Palindromic Substrings — https://leetcode.com/problems/palindromic-substrings/
+    Encode and Decode Strings — https://leetcode.com/problems/encode-and-decode-strings/
+    Longest Substring Without Repeating Characters — https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+5. Matrix
+
+    Set Matrix Zeroes — https://leetcode.com/problems/set-matrix-zeroes/
+    Spiral Matrix — https://leetcode.com/problems/spiral-matrix/
+    Rotate Image — https://leetcode.com/problems/rotate-image/
+    Word Search — https://leetcode.com/problems/word-search/
+
+6. Binary
+
+    Plus One : https://leetcode.com/problems/plus-one/
+    Counting Bits : https://leetcode.com/problems/counting-bits/
+    Missing Number : https://leetcode.com/problems/missing-number/
+    Reverse Bits : https://leetcode.com/problems/reverse-bits/
+    Reverse Integers : https://leetcode.com/problems/reverse-integer/
+    Sum of Two Integers : https://leetcode.com/problems/sum-of-two-integers/
+    Number of 1 Bits : https://leetcode.com/problems/number-of-1-bits/
+
+7. Two pointers
+
+    Pair with target sum : https://leetcode.com/problems/two-sum/
+    Remove duplicates : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+    Squaring a sorted array : https://leetcode.com/problems/squares-of-a-sorted-array/
+
+8. Fast & Slow pointers
+
+    Linked list cycle : https://leetcode.com/problems/linked-list-cycle/
+    Happy number : https://leetcode.com/problems/happy-number/
+    Middle of a linked list : https://leetcode.com/problems/middle-of-the-linked-list/
+    Palindrome linked list : https://leetcode.com/problems/palindrome-linked-list/
+    Reorder a linked list : https://leetcode.com/problems/reorder-list/
+
+9. Heap
+
+    Top K Frequent Elements — https://leetcode.com/problems/top-k-frequent-elements/
+    Find the median of a number stream: https://leetcode.com/problems/find-median-from-data-stream/
+    Merge K Sorted Lists — https://leetcode.com/problems/merge-k-sorted-lists/
+
